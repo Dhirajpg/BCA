@@ -1,2 +1,4 @@
-# BCA
-MES BCA
+Dhiraj project
+cd project
+
+git init
